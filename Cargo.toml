@@ -6,9 +6,9 @@ edition = "2018"
 license = "Apache-2.0"
 
 [dependencies]
-oasis-runtime-sdk = { git = "https://github.com/oasisprotocol/oasis-sdk", rev = "cbdf6fc3002054f0859c4666155a3965b9598c0e" }
-oasis-runtime-sdk-evm = { git = "https://github.com/oasisprotocol/oasis-sdk", rev = "cbdf6fc3002054f0859c4666155a3965b9598c0e" }
-cbor = { version = "=0.1.4", package = "oasis-cbor" }
+oasis-runtime-sdk = { git = "https://github.com/oasisprotocol/oasis-sdk" }
+oasis-runtime-sdk-evm = { git = "https://github.com/oasisprotocol/oasis-sdk" }
+cbor = { version = "=0.1.7", package = "oasis-cbor" }
 
 # Third party.
 thiserror = "1.0"
