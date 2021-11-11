@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OASIS_CORE=~/.oasis/core/v21.3.1/bin
+OASIS_CORE=~/.oasis/core/v21.3.5/bin
 RUNTIME_DIR=/tmp/eth-runtime-test
 RUNTIME_BINARY=target/debug/eth-runtime
 
